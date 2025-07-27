@@ -8,6 +8,12 @@ Get ready to challenge your brain with **Simon Says**, the classic memory game r
 
 ---
 
+## 🚀 Live Preview
+
+Play it here 👉 [Simon Says Game](https://8-adarsh.github.io/Simon-Says-game/)
+
+---
+
 ## 🚀 Ready to Play?
 
 Playing Simon Says is as addictive as it's simple:
