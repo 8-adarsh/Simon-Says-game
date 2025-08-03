@@ -10,7 +10,7 @@ Get ready to challenge your brain with **Simon Says**, the classic memory game r
 
 ## 🚀 Live Preview
 
-Play it here 👉 [Simon Says Game](https://8-adarsh.github.io/Simon-Says-game/)
+Play it here 👉 [Simon Says Game](https://adarsh-kumar-lal.github.io/Simon-Says-game/)
 
 ---
 
